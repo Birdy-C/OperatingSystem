@@ -11,3 +11,8 @@ Questions
 # Other
 
 Textbook: 《现代操作系统》 第三版 陈向群译
+
+课件链接：https://www.coursera.org/learn/os-pku/discussions/weeks/1/threads/VnKW6bbNEeaGMhL6_lg_XA
+
+
+
